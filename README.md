@@ -1,4 +1,4 @@
-# sudden
+# Sudden data
 
 1. ## Ukraine aid across Europe
 Simple analysis on amount and distribution of military aid provided to Ukraine by countries of Europe in 2023
